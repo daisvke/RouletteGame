@@ -1,14 +1,5 @@
 {
-    "Belhouchet.Yamato": {
-        "gender": "male",
-        "lang": "fr",
-        "money": 0,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 700.549308478,
-        "visits": 2
-    },
-    "Casino.Rino": {
+    "Mini.Casino: {
         "gender": "male",
         "lang": "fr",
         "money": 4999991393,
@@ -16,15 +7,6 @@
         "rec_start_money": 5000000263,
         "time": 51.44856371998321,
         "visits": 2
-    },
-    "D\u00f4me.Naho": {
-        "gender": "male",
-        "lang": "en",
-        "money": 400,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 101.43004293500417,
-        "visits": 1
     },
     "Lavalette.Lucie": {
         "gender": "female",
@@ -35,40 +17,4 @@
         "time": 84.53782594704535,
         "visits": 3
     },
-    "Tanigawa.Alain": {
-        "gender": "male",
-        "lang": "en",
-        "money": 50044847,
-        "rec_money": 50055247,
-        "rec_start_money": 50004847,
-        "time": 48482.026826181,
-        "visits": 20
-    },
-    "Tanigawa.Daisuke": {
-        "gender": "male",
-        "lang": "fr",
-        "money": 3820,
-        "rec_money": 5768000,
-        "rec_start_money": 5000,
-        "time": 7227.136753827117,
-        "visits": 9
-    },
-    "Tolba.Fefe": {
-        "gender": "female",
-        "lang": "en",
-        "money": 5000,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 79.81625087300199,
-        "visits": 1
-    },
-    "Verschaeve.Jade": {
-        "gender": "female",
-        "lang": "en",
-        "money": 0,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 331.57259157599765,
-        "visits": 2
-    }
 }
