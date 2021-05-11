@@ -13,7 +13,9 @@ This program is a terminal based casino game.
 ### Description
 
 * The program uses a json list to save the players' profiles.
+ <p>
   <img src="/screenshots/json.png" width="40%" />
+ </p>
   Lastname.Firstname<br />
   gender = player's gender<br />
   lang = default language<br />
