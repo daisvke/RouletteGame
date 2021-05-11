@@ -1,74 +1,20 @@
 {
-    "Belhouchet.Yamato": {
-        "gender": "male",
-        "lang": "fr",
-        "money": 0,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 700.549308478,
-        "visits": 2
-    },
-    "Casino.Rino": {
-        "gender": "male",
-        "lang": "fr",
-        "money": 4999991418,
-        "rec_money": 5500000263,
-        "rec_start_money": 5000000263,
-        "time": 51.44856371998321,
-        "visits": 2
-    },
-    "D\u00f4me.Naho": {
-        "gender": "male",
-        "lang": "en",
-        "money": 400,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 101.43004293500417,
-        "visits": 1
-    },
     "Lavalette.Lucie": {
         "gender": "female",
         "lang": "fr",
-        "money": 20,
+        "money": 10,
         "rec_money": 1,
         "rec_start_money": 1,
-        "time": 84.53782594704535,
-        "visits": 3
+        "time": 118.43026548111811,
+        "visits": 4
     },
-    "Tanigawa.Alain": {
-        "gender": "male",
-        "lang": "en",
-        "money": 50044844,
-        "rec_money": 50055247,
-        "rec_start_money": 50004847,
-        "time": 48532.63408054599,
-        "visits": 22
-    },
-    "Tanigawa.Daisuke": {
+    "Mini.Casino": {
         "gender": "male",
         "lang": "fr",
-        "money": 3798,
-        "rec_money": 5768000,
-        "rec_start_money": 5000,
-        "time": 7324.860371093166,
-        "visits": 10
-    },
-    "Tolba.Fefe": {
-        "gender": "female",
-        "lang": "en",
-        "money": 5000,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 79.81625087300199,
-        "visits": 1
-    },
-    "Verschaeve.Jade": {
-        "gender": "female",
-        "lang": "en",
-        "money": 0,
-        "rec_money": 1,
-        "rec_start_money": 1,
-        "time": 331.57259157599765,
-        "visits": 2
+        "money": 4999991428,
+        "rec_money": 5500000263,
+        "rec_start_money": 5000000263,
+        "time": 88.00569479097612,
+        "visits": 3
     }
 }

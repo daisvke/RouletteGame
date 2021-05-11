@@ -36,7 +36,7 @@ def save(t_start, money, full_name, player):
 
 		# Update Player and Casino money
 		player[full_name]["money"] = money
-		player["Casino.Rino"]["money"] += r_gain
+		player["Mini.Casino"]["money"] += r_gain
 
 		# Add one visit to the visits key value
 		player[full_name]["visits"] += 1
