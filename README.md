@@ -13,15 +13,18 @@ This program is a terminal based casino game.
 ### Description
 
 * The program uses a json list to save the players' profiles.
-  Lastname.Firstname
-  gender = player's gender
-  lang = default language
-  money = current total amount of money
-  rec_money = record total amount of money
-  rec_start_money = start money when rec_money was reached
-  time = total amount of time the player has played
-  visits = number of times the player has played
-* The "Mini.Casino" player represents the casino itself. When it loses/wins the game it does not change the amount of its money.
+<p align="center">
+  <img src="/screenshots/json.png" width="40%" />
+</p>
+  Lastname.Firstname<br />
+  gender = player's gender<br />
+  lang = default language<br />
+  money = current total amount of money<br />
+  rec_money = record total amount of money<br />
+  rec_start_money = start money when rec_money was reached<br />
+  time = total amount of time the player has played<br />
+  visits = number of times the player has played<br />
+* The "Mini.Casino" player represents the casino itself. When it loses/wins the game it does not change the amount of its money.<br />
 * The player interacts with the Croupier during the whole game.
 
 ### Errors
@@ -31,5 +34,4 @@ This program is a terminal based casino game.
 <p align="center">
   <img src="/screenshots/board.png" width="60%" />
   <img src="/screenshots/results.png" width="60%" />
-  <img src="/screenshots/json.png" width="40%" />
 </p>
