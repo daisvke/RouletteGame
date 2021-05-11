@@ -29,7 +29,7 @@ This program is a terminal based casino game.
 * Entering unwanted data multiple times can lead to an expulsion by the Croupier.
 
 <p align="center">
-  <img src="/screenshots/board.png" width="40%" />
-  <img src="/screenshots/results.png" width="40%" />
+  <img src="/screenshots/board.png" width="60%" />
+  <img src="/screenshots/results.png" width="60%" />
   <img src="/screenshots/json.png" width="40%" />
 </p>
