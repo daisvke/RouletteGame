@@ -3,7 +3,9 @@
 from package.printer import *
 
 def find_bet_option(answer):
-	"""A function that checks if answer exists as an option."""
+	"""A function that checks if the answer corresponds
+	to an existing option.
+	"""
 	if type(answer) is str:
 		if answer=="r" or answer=="R": 
 			return True
@@ -53,7 +55,7 @@ def edit_bet_option(answer):
 		
 def validate_str(string):
 	"""A function that checks if a string only contains letters"""
-	if not string.isalpha():						
+	if not string.isalpha():
 		return None
 	return string
 

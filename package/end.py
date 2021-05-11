@@ -10,17 +10,17 @@ def bye(t_start, lang, money, full_name, player):
 	"""A function that saves modified data of Player, with save(), then
 	says goodbye to the Player, followed by logo.
 	"""
-	save(t_start, money, full_name, player) # Save data
+	if player:
+		save(t_start, money, full_name, player) # Save data
 	
 	print("\n\n\n")
 	if lang == "fr":
-		mprint("À bientôt !")
+		mprint("à bientôt !")
 	elif lang == "en":
-		mprint("See you !")
+		mprint("see you !")
 	print("\n\n")
 	sleep(1)
-	mprint(" RINO\n")
-	mprint(" — Minimal Casinos —\n")
+	mprint(" — minicasino — \n")
 	print("\n\n\n")
 
 def stay_leave(t_start, lang, honorific, full_name, player, 
@@ -28,12 +28,12 @@ def stay_leave(t_start, lang, honorific, full_name, player,
 	"""A function that asks if the Player wants to stay/leave."""
 	sleep(1.5)
 	attempt = 0
-	if full_name:
+	if not full_name == "":
 		lst = []
 		lst = full_name.split(".") # Get the last name from string
 		last_name = lst[0] 
 	else:
-		last_name = "Guest"
+		last_name = ""
 
 	answer = None
 	play = 0

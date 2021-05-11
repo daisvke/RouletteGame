@@ -82,3 +82,6 @@ def edit_honor(lang, honorific):
 	elif lang=="en" and honorific=="Madam":
 		return "Mrs."
 
+	# Guest
+	return "Dear Guest"
+

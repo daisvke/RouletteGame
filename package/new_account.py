@@ -9,7 +9,7 @@ from package.answer import *
 
 def registration(player, lang, ln, slp=0.5): 
 	full_name = None
-	last_name = "Guest"
+	last_name = None
 	first_name = None
 	honorific = "Sir"
 	gender = "male"

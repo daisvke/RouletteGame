@@ -1,4 +1,4 @@
-"""A module that prints the good words from the Croupier."""
+"""A module that prints out the lines of the Croupier."""
 
 from time import sleep
 import sys
@@ -81,8 +81,8 @@ def be_serious(t_start, money, full_name, player, attempt, lang, honorific,
 			sleep(slp)
 			mprint(" celle de L'INDÉCENCE !\n") 
 			sleep(slp)
-			mprint(" Les agents qui viennent d'arriver vont vous rediriger " \
-				"vers la sortie.\n")
+			mprint(" Les agents de sécurité qui viennent d'arriver " \
+				"vont vous rediriger vers la sortie.\n")
 			sleep(slp)
 			mprint(" Et ne revenez plus ici, si c'est pour nous faire " \
 				"perdre notre temps !\n")
@@ -96,7 +96,7 @@ def be_serious(t_start, money, full_name, player, attempt, lang, honorific,
 			sleep(slp)
 			mprint(" it is called INDECENCY !\n") 
 			sleep(slp)
-			mprint(" The agents who have just arrived are going to take you " \
+			mprint(" The security who have just arrived is going to take you " \
 				"out.\n")
 			sleep(slp)
 			mprint(" and do not come back here if you are going to waste" \
@@ -107,7 +107,7 @@ def be_serious(t_start, money, full_name, player, attempt, lang, honorific,
 		mprint(" ===========================================================" \
 			"=============\n\n")
 		print("\n\n\n")
-		end.bye(lang, money, full_name, player)
+		end.bye(t_start, lang, money, full_name, player)
 		sys.exit(1)
 	print("\n")
 

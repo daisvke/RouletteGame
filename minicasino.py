@@ -11,7 +11,6 @@ from package.table import *
 from package.board import *
 from package.printer import *
 from package.croupier import *
-from package.menu import *
 from package import end
 from package import color
 from package.list_manip import *
@@ -39,18 +38,17 @@ ex_r_number = 0 # The last number given by the roulette
 showed = [] # List of showed roulette numbers
 slp = 0.5 # seconds of sleep
 player = {} # Dict in which we load data from file 
-full_name = None
-last_name = None
+full_name = ""
+last_name = ""
 first_name = None
-honorific = None
+honorific = "Dear Guest"
 gender = None
 lang = "en" # Language is English by default
 
 # Welcome screen with monochrome roulette table
 print("\n\n\n\n")
-mprint(" RINO\n")
-mprint(" — Minimal Casino —\n")
-mprint(" Welcome")
+mprint(" minicasino\n")
+mprint(" —  welcome — ")
 print("\n\n\n")
 sleep(1.5)
 color = False # If false, the table is monochrome

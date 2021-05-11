@@ -11,7 +11,7 @@
     "Casino.Rino": {
         "gender": "male",
         "lang": "fr",
-        "money": 4999991393,
+        "money": 4999991418,
         "rec_money": 5500000263,
         "rec_start_money": 5000000263,
         "time": 51.44856371998321,
@@ -38,20 +38,20 @@
     "Tanigawa.Alain": {
         "gender": "male",
         "lang": "en",
-        "money": 50044847,
+        "money": 50044844,
         "rec_money": 50055247,
         "rec_start_money": 50004847,
-        "time": 48482.026826181,
-        "visits": 20
+        "time": 48532.63408054599,
+        "visits": 22
     },
     "Tanigawa.Daisuke": {
         "gender": "male",
         "lang": "fr",
-        "money": 3820,
+        "money": 3798,
         "rec_money": 5768000,
         "rec_start_money": 5000,
-        "time": 7227.136753827117,
-        "visits": 9
+        "time": 7324.860371093166,
+        "visits": 10
     },
     "Tolba.Fefe": {
         "gender": "female",
