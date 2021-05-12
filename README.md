@@ -6,7 +6,7 @@ This program is a terminal based roulette game.
 
 * The program must be run as follows:
   ```
-  ./minicasino.py
+  ./miniroulette.py
   ```
 * Quit the game with command CTRL + C
 

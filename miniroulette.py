@@ -19,9 +19,6 @@ from package.results import *
 from package.player import *
 from package import new_account
 
-#This is
-#RINO MINIMAL CASINO 
-
 # Startup variables declaration
 t_start = perf_counter() # Start counting time in seconds
 width = os.get_terminal_size().columns # For center display of input
@@ -47,7 +44,7 @@ lang = "en" # Language is English by default
 
 # Welcome screen with monochrome roulette table
 print("\n\n\n\n")
-mprint(" minicasino\n")
+mprint(" miniroulette\n")
 mprint(" —  welcome — ")
 print("\n\n\n")
 sleep(1.5)

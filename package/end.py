@@ -20,7 +20,7 @@ def bye(t_start, lang, money, full_name, player):
 		mprint("see you !")
 	print("\n\n")
 	sleep(1)
-	mprint(" — minicasino — \n")
+	mprint(" — miniroulette — \n")
 	print("\n\n\n")
 
 def stay_leave(t_start, lang, honorific, full_name, player, 
