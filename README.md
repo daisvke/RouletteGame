@@ -1,6 +1,6 @@
-# minicasino
+# miniroulette
 
-This program is a terminal based casino game.
+This program is a terminal based roulette game.
 
 ### Commands
 
