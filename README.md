@@ -2,7 +2,7 @@
 
 This program is a terminal based roulette game.
 
-### Commands
+## Commands
 
 * The program must be run as follows:
   ```
@@ -10,7 +10,7 @@ This program is a terminal based roulette game.
   ```
 * Quit the game with command CTRL + C
 
-### Description
+## Description
 
 * The program uses a json list to save the players' profiles.
  <p>
@@ -26,12 +26,9 @@ This program is a terminal based roulette game.
   visits = number of times the player has played<br />
 * The "Mini.Casino" player represents the casino itself. When it loses/wins the game it does not change the amount of its money.<br />
 * The player interacts with the Croupier during the whole game.
-
-### Errors
-
 * Entering unwanted data multiple times can lead to an expulsion by the Croupier.
 
-### Screenshots
+## Screenshots
 
 <p align="center">
   <img src="/screenshots/board.png" width="60%" />
