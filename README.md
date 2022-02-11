@@ -25,7 +25,7 @@ This program is a terminal based roulette game.
   time = total amount of time the player has played<br />
   visits = number of times the player has played<br />
 * The "Mini.Casino" player represents the casino itself. When it loses/wins the game it does not change the amount of its money.<br />
-* The player interacts with the Croupier during the whole game.
+* The player interacts with the Croupier during the whole game.<br />
 * Entering unwanted data multiple times can lead to an expulsion by the Croupier.
 
 ## Screenshots
